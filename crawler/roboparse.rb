@@ -1,4 +1,7 @@
 #!/usr/bin/env ruby
+
+# Authors: Tyson Larimer, Skylar Hiebert
+
 #
 #
 #Once the array returns, you should check to see if the item in dList[0] =~ /crawl-delay/i
