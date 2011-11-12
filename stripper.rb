@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# Authors: Tyson Larimer, Skylar Hiebert
+
 require 'nokogiri'
 
 class PlainTextExtractor < Nokogiri::XML::SAX::Document
