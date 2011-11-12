@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# Author: Kevin Peizner
+
 #PUNC = "?.,!'&:;\"()@#$\%*`~[]{}|\\/<>=+-_" # not for final version.
 
 class Stopper
