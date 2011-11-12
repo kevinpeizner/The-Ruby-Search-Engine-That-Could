@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+# Author: Kevin Peizner
 
 class Porter
 
