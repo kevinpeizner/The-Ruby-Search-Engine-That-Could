@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# Author: Skylar Hiebert
+
 class ParseStat
   attr_accessor :threshold, :T
   attr_reader :interval
