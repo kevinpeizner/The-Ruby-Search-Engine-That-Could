@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# Author: Skylar Hiebert
+
 require 'uri' 
 require 'open-uri'
 require 'nokogiri'
